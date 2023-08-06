@@ -1,0 +1,23 @@
+body {
+    background-size: cover;
+    background-color: lightblue;
+}
+.h1 {
+    text-color: fuchsia;
+    text-align: center;
+}
+.video-container{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+video, audio{
+    max-width: 100%;
+    text-align: center;
+}
+
+.section{
+    margin-bottom: 30px;
+    text-align: center;
+}
