@@ -1,0 +1,15 @@
+.chessboard {
+    border-collapse: collapse;
+}
+.chessboard td {
+    width: 60px;
+    height: 60px;
+    text-align: center;
+}
+.white-cell {
+    background-color: #f2f2f2;
+}
+.black-cell {
+    background-color: #404040;
+    color: white;
+}
